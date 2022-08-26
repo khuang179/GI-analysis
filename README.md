@@ -1,5 +1,5 @@
 # GI-analysis
-This is the pipeline for batch analysis of gall bladder size as stained using NBD-cholesterol.
+This is the CellProfiler pipeline for batch analysis of gall bladder size as stained using NBD-cholesterol.
 Pipeline in brief as followed:
 [   1] [Images]
   To begin creating your project, use the Images module to compile a list of files and/or folders that you want to analyze. You can also specify a set of rules to include only the desired files in your selected folders.
